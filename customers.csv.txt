@@ -1,0 +1,6 @@
+Customer_ID, Name, City, Zip Code
+1A, Bill, Nashville, 37210
+1B, Bob, Nashville, 37212
+1C, Barry, Boston, 02134
+1D, Brett, Hoboken, 07030
+1E, Ben, San Juan, 00901
